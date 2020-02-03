@@ -8,3 +8,6 @@
 # end
 # end
 # end
+def prime(num)
+  
+end
