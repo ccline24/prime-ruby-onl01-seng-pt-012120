@@ -6,6 +6,4 @@ def prime(num)
     else 
       false
 end
-prime_num
-end
 end
