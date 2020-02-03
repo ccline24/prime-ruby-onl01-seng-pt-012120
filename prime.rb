@@ -8,3 +8,4 @@ def prime(num)
 end
 prime_num
 end
+end
